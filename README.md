@@ -1,3 +1,6 @@
+# RugsUSA Image Downloader
+This utility is for downloading the transparent PNG image from a Rugs USA item number. I created this to help my wife and potentially other interior designers with getting accurate images for their mockups, moddboards, and other artifacts in their design process.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
